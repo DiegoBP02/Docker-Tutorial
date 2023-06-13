@@ -1,4 +1,6 @@
-## demo app - developing with Docker
+Docker tutorial project for learning purpose. This project was created as part of the tutorial "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]" from the youtube channel TechWorld with Nana.
+
+## Demo app - Developing with Docker
 
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
